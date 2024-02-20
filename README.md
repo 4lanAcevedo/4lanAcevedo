@@ -15,11 +15,12 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Me apasiona crear soluciones tecnologicas
+- Despejarme con videojuegos 
+- actualmente aprendiendo AVR en lenguaje C
+- Pagina Pyme: [link]([https://www.0xabdulkhalid.ml](https://www.csatec.net/))
+- Pagina Imstagram: [link]([[https://www.0xabdulkhalid.ml](https://www.csatec.net/)](https://www.instagram.com/risk_electro?igsh=MWF3Y2ZjdmplZ3Fpdw%3D%3D))
+- Me puedes contactar atravez de mi E-mail: [link](acevedo.alan.e@gmail.com)
 
 <br><br>
 
