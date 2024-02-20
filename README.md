@@ -107,7 +107,7 @@
 <br>
 
 <li>
-<a href="acevedo.alan@gmail.com" target="blank"><img align="center"
+<a href="mailto:acevedo.alan.e@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
 </li>
