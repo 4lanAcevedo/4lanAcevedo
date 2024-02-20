@@ -99,9 +99,9 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
+<a href="https://instagram.com/azzar_budiyanto](https://www.instagram.com/risk_electro?igsh=MWF3Y2ZjdmplZ3Fpdw%3D%3D" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
 </li>
 
 <br>
