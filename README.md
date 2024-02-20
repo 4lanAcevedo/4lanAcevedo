@@ -99,7 +99,7 @@
 <br>
 
 <li>
-<a href="https://instagram.com/azzar_budiyanto](https://www.instagram.com/risk_electro?igsh=MWF3Y2ZjdmplZ3Fpdw%3D%3D" target="blank"><img align="center"
+<a href="https://www.instagram.com/risk_electro/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
 </li>
