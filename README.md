@@ -19,8 +19,6 @@
 - Despejarme con videojuegos 
 - actualmente aprendiendo AVR en lenguaje C
 - Pagina Pyme: **https://www.csatec.net/**
-- Pagina Imstagram: **https://www.instagram.com/risk_electro?igsh=MWF3Y2ZjdmplZ3Fpdw%3D%3D**
-- Me puedes contactar atravez de mi E-mail: **acevedo.alan.e@gmail.com**
 
 <br><br>
 
