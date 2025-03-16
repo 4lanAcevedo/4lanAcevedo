@@ -18,7 +18,7 @@
 - Me apasiona crear soluciones tecnologicas
 - Despejarme con videojuegos 
 - actualmente aprendiendo AVR en lenguaje C
-- Pagina Pyme: **https://www.csatec.net/**
+
 
 <br><br>
 
